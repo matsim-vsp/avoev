@@ -23,7 +23,7 @@ const config: any = {
       svn:
         'https://svn.vsp.tu-berlin.de/repos/public-svn/matsim/scenarios/countries/de/gladbeck/avoev',
       need_password: false,
-      thumbnail: '/thumb-gladbeck.jpg',
+      thumbnail: '/avoev/thumb-gladbeck.jpg',
     },
     {
       name: 'AVÖV Vulkaneifel',
@@ -32,7 +32,7 @@ const config: any = {
       svn:
         'https://svn.vsp.tu-berlin.de/repos/public-svn/matsim/scenarios/countries/de/vulkaneifel/avoev',
       need_password: false,
-      thumbnail: '/thumb-vulkaneifel.jpg',
+      thumbnail: '/avoev/thumb-vulkaneifel.jpg',
     },
   ],
 }

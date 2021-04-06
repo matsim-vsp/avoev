@@ -7,7 +7,7 @@
 
     .content
       .main
-        img(src="/logo-avoev.png" height=120)
+        img(src="/avoev/logo-avoev.png" height=120)
         h2.readme(v-html="readme")
 
         h2 Wählen Sie das Untersuchungsgebiet aus:

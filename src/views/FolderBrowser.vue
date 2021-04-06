@@ -5,7 +5,7 @@
       h2(v-if="globalState.breadcrumbs.length") {{ globalState.breadcrumbs[globalState.breadcrumbs.length -1].label }}
       p {{ myState.svnProject.description }}
     .logo
-        img(height=160 src="/logo-avoev.png")
+        img(height=160 src="/avoev/logo-avoev.png")
 
   //- zoom-template
 

@@ -10,7 +10,7 @@
     .map
       img(width=500 v-if="myState.svnProject" :src="myState.svnProject.thumbnail")
     .logo
-      img(src="/logo-avoev.png")
+      img(src="/avoev/logo-avoev.png")
 
   .details(v-if="myState.svnProject")
 
