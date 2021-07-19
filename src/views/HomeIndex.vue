@@ -8,7 +8,7 @@
     .content
       .main
         img(src="/avoev/logo-avoev.png" height=120)
-        h2.readme(v-html="readme")
+        .readme(v-html="readme")
 
         h2 Wählen Sie das Untersuchungsgebiet aus:
         svn-projects.gap
